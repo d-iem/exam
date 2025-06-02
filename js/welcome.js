@@ -13,5 +13,5 @@ window.onload = function() {
 function logoutUser() {
   localStorage.removeItem("isLoggedIn");
   localStorage.removeItem("username");
-  window.location.href = "login.html";
+  window.location.href = "index.html";
 }
