@@ -6,7 +6,7 @@ window.onload = function() {
     document.getElementById("welcomeMessage").textContent = `Welcome, ${username}! to the Exam`;
   } else {
     // If not logged in, redirect to login page
-    window.location.href = "login.html";
+    window.location.href = "index.html";
   }
 };
 
