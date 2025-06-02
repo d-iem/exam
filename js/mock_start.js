@@ -95,3 +95,8 @@ let score = 0;
 let totalSeconds = 0;
 let timerInterval;  
 document.getElementById("start-btn").addEventListener("click", startQuiz);
+
+document.body.addEventListener('touchmove', function (e) {
+  e.preventDefault();
+}, { passive: false });
+
