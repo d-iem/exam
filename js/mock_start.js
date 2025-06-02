@@ -92,7 +92,7 @@ function submitAnswer() {
 function logoutUser() {
   localStorage.removeItem("isLoggedIn");
   localStorage.removeItem("username");
-  window.location.href = "login.html";
+  window.location.href = "index.html";
 }
 
 let currentQuestion = 0;
