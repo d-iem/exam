@@ -1,4 +1,4 @@
-let question_file = "json/question.json"
+let question_file = "json/gs_coi1.json"
 
 let quizData = [];
 
