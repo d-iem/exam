@@ -1,4 +1,4 @@
-let question_file = "json/indian_constitution_preamble_mcq.json"
+let question_file = "json/indian_constitution_preamble_mcq_20.json"
 
 let quizData = [];
 
