@@ -1,0 +1,202 @@
+[
+  {
+    "question": "হিমালয় পর্বতমালা কিভাবে গঠিত হয়েছিল? (How were the Himalayan mountains formed?)",
+    "options": [
+      "জ্বালামুখী কার্যকলাপ (Volcanic activity)",
+      "টেকটোনিক প্লেট সংঘর্ষ (Tectonic plate collision)",
+      "বায়ু ক্ষয় (Wind erosion)",
+      "নদীর ক্ষয় (River erosion)"
+    ],
+    "answer": "টেকটোনিক প্লেট সংঘর্ষ (Tectonic plate collision)"
+  },
+  {
+    "question": "কাঞ্চনজঙ্ঘা কোন পর্বতশ্রেণীর অংশ? (Kanchenjunga is part of which mountain range?)",
+    "options": [
+      "পশ্চিমঘাট (Western Ghats)",
+      "পুর্বঘাট (Eastern Ghats)",
+      "হিমালয় (Himalayas)",
+      "আড়াবল্লী (Aravalli)"
+    ],
+    "answer": "হিমালয় (Himalayas)"
+  },
+  {
+    "question": "হিমালয় পর্বতমালা কোন ধরণের পর্বত? (What type of mountain is the Himalaya?)",
+    "options": [
+      "ব্লক পর্বত (Block mountain)",
+      "ভাঁজ পর্বত (Fold mountain)",
+      "গম্বুজ পর্বত (Dome mountain)",
+      "জ্বালামুখী পর্বত (Volcanic mountain)"
+    ],
+    "answer": "ভাঁজ পর্বত (Fold mountain)"
+  },
+  {
+    "question": "হিমালয় কোন দুটি ভাগে বিভক্ত? (The Himalayas are divided into which two major parts?)",
+    "options": [
+      "পুর্ব ও পশ্চিম হিমালয় (Eastern and Western Himalayas)",
+      "উত্তর ও দক্ষিণ হিমালয় (Northern and Southern Himalayas)",
+      "কেন্দ্র ও পার্শ্ব হিমালয় (Central and Lateral Himalayas)",
+      "উচ্চ ও নিম্ন হিমালয় (Upper and Lower Himalayas)"
+    ],
+    "answer": "পুর্ব ও পশ্চিম হিমালয় (Eastern and Western Himalayas)"
+  },
+  {
+    "question": "হিমালয়ের সর্বোচ্চ শৃঙ্গ কোনটি? (What is the highest peak in the Himalayas?)",
+    "options": [
+      "নন্দা দেবী (Nanda Devi)",
+      "এভারেস্ট (Everest)",
+      "কাঞ্চনজঙ্ঘা (Kanchenjunga)",
+      "ধৌলাগিরি (Dhaulagiri)"
+    ],
+    "answer": "এভারেস্ট (Everest)"
+  },
+  {
+    "question": "গঙ্গা নদী কোথা থেকে উৎপন্ন হয়েছে? (Where does the Ganga River originate?)",
+    "options": [
+      "অমরকণ্টক (Amarkantak)",
+      "গোমুখ (Gomukh)",
+      "মানস সরোবর (Manasarovar)",
+      "কেদারনাথ (Kedarnath)"
+    ],
+    "answer": "গোমুখ (Gomukh)"
+  },
+  {
+    "question": "ব্রহ্মপুত্র নদ ভারতে প্রবেশ করে কোথা দিয়ে? (Through which region does the Brahmaputra enter India?)",
+    "options": [
+      "সিকিম (Sikkim)",
+      "নাগাল্যান্ড (Nagaland)",
+      "অরুণাচল প্রদেশ (Arunachal Pradesh)",
+      "অসম (Assam)"
+    ],
+    "answer": "অরুণাচল প্রদেশ (Arunachal Pradesh)"
+  },
+  {
+    "question": "গোদাবরী নদীকে কী বলা হয়? (What is the Godavari River known as?)",
+    "options": [
+      "দক্ষিণের গঙ্গা (Ganga of the South)",
+      "পশ্চিমের ব্রহ্মপুত্র (Brahmaputra of the West)",
+      "দক্ষিণের যমুনা (Yamuna of the South)",
+      "পূর্বের সিন্ধু (Indus of the East)"
+    ],
+    "answer": "দক্ষিণের গঙ্গা (Ganga of the South)"
+  },
+  {
+    "question": "নর্মদা নদী কোন পাহাড় থেকে উৎপন্ন হয়? (From which hills does the Narmada River originate?)",
+    "options": [
+      "পশ্চিমঘাট (Western Ghats)",
+      "বিন্ধ্য পর্বত (Vindhya Range)",
+      "সাতপুরা পর্বত (Satpura Range)",
+      "অমরকণ্টক পর্বত (Amarkantak Hills)"
+    ],
+    "answer": "অমরকণ্টক পর্বত (Amarkantak Hills)"
+  },
+  {
+    "question": "সিন্ধু নদ কোন দেশ থেকে ভারতে প্রবেশ করে? (From which country does the Indus River enter India?)",
+    "options": [
+      "নেপাল (Nepal)",
+      "তিব্বত (Tibet)",
+      "ভুটান (Bhutan)",
+      "চীন (China)"
+    ],
+    "answer": "তিব্বত (Tibet)"
+  },
+  {
+    "question": "তাপ্তি নদী কোন দিকে প্রবাহিত হয়? (In which direction does the Tapti River flow?)",
+    "options": [
+      "পূর্ব দিকে (Eastward)",
+      "উত্তর দিকে (Northward)",
+      "দক্ষিণ দিকে (Southward)",
+      "পশ্চিম দিকে (Westward)"
+    ],
+    "answer": "পশ্চিম দিকে (Westward)"
+  },
+  {
+    "question": "গঙ্গা নদীর প্রধান উপনদী কোনটি? (Which is the main tributary of the Ganga River?)",
+    "options": [
+      "ব্রহ্মপুত্র (Brahmaputra)",
+      "গোমতী (Gomti)",
+      "যমুনা (Yamuna)",
+      "ঘাঘরা (Ghaghara)"
+    ],
+    "answer": "যমুনা (Yamuna)"
+  },
+  {
+    "question": "হিমালয় কোন ধরণের জলবায়ু প্রভাব ফেলে? (What type of climate effect does the Himalaya have?)",
+    "options": [
+      "বৃষ্টিপাত হ্রাস (Decreased rainfall)",
+      "বায়ুপ্রবাহ বন্ধ করা (Blocking air currents)",
+      "শুষ্কতা সৃষ্টি (Causing dryness)",
+      "উষ্ণতা বৃদ্ধি (Increasing temperature)"
+    ],
+    "answer": "বায়ুপ্রবাহ বন্ধ করা (Blocking air currents)"
+  },
+  {
+    "question": "গঙ্গা ও ব্রহ্মপুত্র নদী কোন ধরণের মোহনা গঠন করে? (What type of delta is formed by Ganga and Brahmaputra?)",
+    "options": [
+      "ত্রিভুজাকার মোহনা (Triangular Delta)",
+      "বৃত্তাকার মোহনা (Circular Delta)",
+      "প্রশস্ত মোহনা (Estuary)",
+      "বাঁকানো মোহনা (Curved Delta)"
+    ],
+    "answer": "ত্রিভুজাকার মোহনা (Triangular Delta)"
+  },
+  {
+    "question": "গঙ্গা নদী কোন সাগরে পতিত হয়? (Into which sea does the Ganga River fall?)",
+    "options": [
+      "আরব সাগর (Arabian Sea)",
+      "বঙ্গোপসাগর (Bay of Bengal)",
+      "আন্দামান সাগর (Andaman Sea)",
+      "লাক্ষাদ্বীপ সাগর (Laccadive Sea)"
+    ],
+    "answer": "বঙ্গোপসাগর (Bay of Bengal)"
+  },
+  {
+    "question": "ভারতের নদীগুলিকে কটি প্রধান শ্রেণীতে ভাগ করা যায়? (How many main categories are Indian rivers divided into?)",
+    "options": [
+      "২ (2)",
+      "৩ (3)",
+      "৪ (4)",
+      "৫ (5)"
+    ],
+    "answer": "২ (2)"
+  },
+  {
+    "question": "হিমালয়ের কোন শৃঙ্গে তুষারপাত সর্বাধিক হয়? (Which Himalayan peak receives the highest snowfall?)",
+    "options": [
+      "কাঞ্চনজঙ্ঘা (Kanchenjunga)",
+      "নন্দা দেবী (Nanda Devi)",
+      "বানিহাল (Banihal)",
+      "গ্যাংটক (Gangtok)"
+    ],
+    "answer": "কাঞ্চনজঙ্ঘা (Kanchenjunga)"
+  },
+  {
+    "question": "হিমালয় কোন দুটি দেশের মধ্যে প্রাকৃতিক সীমান্ত গঠন করে? (The Himalayas form a natural boundary between which two countries?)",
+    "options": [
+      "ভারত ও পাকিস্তান (India and Pakistan)",
+      "ভারত ও বাংলাদেশ (India and Bangladesh)",
+      "ভারত ও চীন (India and China)",
+      "ভারত ও ভুটান (India and Bhutan)"
+    ],
+    "answer": "ভারত ও চীন (India and China)"
+  },
+  {
+    "question": "যমুনা নদী কোন নদীর উপনদী? (Yamuna is a tributary of which river?)",
+    "options": [
+      "ব্রহ্মপুত্র (Brahmaputra)",
+      "গঙ্গা (Ganga)",
+      "গোদাবরী (Godavari)",
+      "নর্মদা (Narmada)"
+    ],
+    "answer": "গঙ্গা (Ganga)"
+  },
+  {
+    "question": "নদী ব্যবস্থার উন্নয়নে কোন প্রকল্প গুরুত্বপূর্ণ? (Which project is important for river system development?)",
+    "options": [
+      "বকরা নাঙ্গল প্রকল্প (Bhakra Nangal Project)",
+      "স্বর্ণচল্লা প্রকল্প (Swarna Challa Project)",
+      "নর্মদা বাঁধ প্রকল্প (Narmada Dam Project)",
+      "গঙ্গা পরিচ্ছন্নতা অভিযান (Ganga Cleanliness Mission)"
+    ],
+    "answer": "বকরা নাঙ্গল প্রকল্প (Bhakra Nangal Project)"
+  }
+]
