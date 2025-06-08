@@ -188,5 +188,16 @@
       "নবাবের শক্তি হ্রাস (Weaken Nawab’s power)"
     ],
     "answer": "সবাইকে সমান কর আরোপ (Equal tax for all)"
-  }
+  },
+  {
+  "question": "মীর কাশিম তার রাজধানী কোথায় স্থানান্তর করেছিলেন? (Where did Mir Qasim shift his capital to?)",
+  "options": [
+    "কলকাতা (Kolkata)",
+    "মুর্শিদাবাদ (Murshidabad)",
+    "পাটনা (Patna)",
+    "মুঙ্গের (Munger)"
+  ],
+  "answer": "মুঙ্গের (Munger)"
+}
+
 ]
