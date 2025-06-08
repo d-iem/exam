@@ -1,0 +1,202 @@
+[
+  {
+    "question": "ভারতের সংবিধানের প্রস্তাবনার শুরু কোন বাক্য দিয়ে হয়? (What is the opening phrase of the Preamble of the Indian Constitution?)",
+    "options": [
+      "আমরা, ভারতের জনগণ (We, the people of India)",
+      "ভারত একটি সার্বভৌব রাষ্ট্র (India is a sovereign state)",
+      "আমাদের ন্যায়বিচার (Our Justice)",
+      "ভারত একটি ধর্মনিরপেক্ষ রাষ্ট্র (India is a secular state)"
+    ],
+    "answer": "আমরা, ভারতের জনগণ (We, the people of India)"
+  },
+  {
+    "question": "ভারতের সংবিধানের প্রস্তাবনায় কয়টি শব্দ রয়েছে? (How many words are there in the Preamble of the Indian Constitution?)",
+    "options": [
+      "২০ (20)",
+      "৭৩ (73)",
+      "৫০ (50)",
+      "৪৫ (45)"
+    ],
+    "answer": "৭৩ (73)"
+  },
+  {
+    "question": "ভারতের সংবিধানের প্রস্তাবনা কোন তারিখে গৃহীত হয়? (On which date was the Preamble of the Indian Constitution adopted?)",
+    "options": [
+      "২৬ জানুয়ারি ১৯৫০ (26 January 1950)",
+      "২৬ নভেম্বর ১৯৪৯ (26 November 1949)",
+      "১৫ আগস্ট ১৯৪৭ (15 August 1947)",
+      "২ অক্টোবর ১৯৫০ (2 October 1950)"
+    ],
+    "answer": "২৬ নভেম্বর ১৯৪৯ (26 November 1949)"
+  },
+  {
+    "question": "ভারতের সংবিধানের প্রস্তাবনায় কোন শব্দ দ্বারা ভারতকে অভিহিত করা হয়েছে? (Which word is used in the Preamble to describe India?)",
+    "options": [
+      "গণতান্ত্রিক (Democratic)",
+      "সার্বভৌম (Sovereign)",
+      " প্রজাতন্ত্র (Republic"),
+      "উপরের সবগুলোই (All of the above)"
+    ],
+    "answer": "উপরের সবগুলোই (All of the above)"
+  },
+  {
+    "question": "ভারতের সংবিধানের প্রস্তাবনা কোনটি নয়? (Which of the following is NOT mentioned in the Preamble of the Indian Constitution?)",
+    "options": [
+      "সাম্য (Equality)",
+      "ধর্মনিরপেক্ষতা (Secularism)",
+      "মৌলিক অধিকারের নিশ্চয়তা (Guarantee of Fundamental Rights)",
+      "অধিকার ও দায়িত্ব (Rights and Duties)"
+    ],
+    "answer": "অধিকার ও দায়িত্ব (Rights and Duties)"
+  },
+  {
+    "question": "ভারতের সংবিধানের প্রস্তাবনার ভাষা কী? (What is the language of the Preamble of the Indian Constitution?)",
+    "options": [
+      "হিন্দি (Hindi)",
+      "ইংরেজি (English)",
+      "হিন্দি এবং ইংরেজি (Hindi and English)",
+      "সানস্কৃত (Sanskrit)"
+    ],
+    "answer": "হিন্দি এবং ইংরেজি (Hindi and English)"
+  },
+  {
+    "question": "ভারতের সংবিধানের প্রস্তাবনায় 'সাম্য' শব্দটি দ্বারা কী বোঝানো হয়েছে? (What does the term 'Equality' mean in the Preamble?)",
+    "options": [
+      "সব নাগরিকের সমান সুযোগ (Equal opportunity for all citizens)",
+      "কেবল ধর্মীয় সাম্য (Only religious equality)",
+      "শুধু রাজনৈতিক সাম্য (Only political equality)",
+      "শ্রেণী ভিত্তিক সাম্য (Class-based equality)"
+    ],
+    "answer": "সব নাগরিকের সমান সুযোগ (Equal opportunity for all citizens)"
+  },
+  {
+    "question": "ভারতের সংবিধানের প্রস্তাবনায় 'ধর্মনিরপেক্ষতা' শব্দটি কী বোঝায়? (What does 'Secularism' mean in the Preamble?)",
+    "options": [
+      "সরকার কোনো ধর্মকে স্বীকৃতি দেয় না (Government does not recognize any religion)",
+      "সব ধর্ম সমান সম্মান পায় (All religions get equal respect)",
+      "শুধুমাত্র প্রধান ধর্মকে সমর্থন করা (Supporting only the major religion)",
+      "ধর্মের ভিত্তিতে আইন প্রণয়ন (Law based on religion)"
+    ],
+    "answer": "সব ধর্ম সমান সম্মান পায় (All religions get equal respect)"
+  },
+  {
+    "question": "ভারতের সংবিধানের প্রস্তাবনায় 'গণতন্ত্র' শব্দের অর্থ কী? (What does the term 'Democracy' mean in the Preamble?)",
+    "options": [
+      "জনগণের শাসন (Government by the people)",
+      "রাজপরিবারের শাসন (Rule by royalty)",
+      "পুলিশ কর্তৃক শাসন (Rule by police)",
+      "ধর্মীয় শাসন (Religious rule)"
+    ],
+    "answer": "জনগণের শাসন (Government by the people)"
+  },
+  {
+    "question": "ভারতের সংবিধানের প্রস্তাবনায় কোন শব্দ দ্বারা বিচারব্যবস্থা নির্দেশ করা হয়েছে? (Which term in the Preamble refers to the justice system?)",
+    "options": [
+      "ন্যায়বিচার (Justice)",
+      "স্বাধীনতা (Liberty)",
+      "সাম্য (Equality)",
+      "ভ্রাতৃত্ব (Fraternity)"
+    ],
+    "answer": "ন্যায়বিচার (Justice)"
+  },
+  {
+    "question": "ভারতের সংবিধানের প্রস্তাবনায় 'স্বাধীনতা' শব্দের অর্থ কী? (What does the term 'Liberty' mean in the Preamble?)",
+    "options": [
+      "মনের স্বাধীনতা (Freedom of thought)",
+      "শরীরিক স্বাধীনতা (Physical freedom)",
+      "রাজনৈতিক স্বাধীনতা (Political freedom)",
+      "সবকিছু মিলে (All of these)"
+    ],
+    "answer": "সবকিছু মিলে (All of these)"
+  },
+  {
+    "question": "ভারতের সংবিধানের প্রস্তাবনায় 'ভ্রাতৃত্ব' শব্দের অর্থ কী? (What does the term 'Fraternity' mean in the Preamble?)",
+    "options": [
+      "ভাইভাব ও একতা (Brotherhood and unity)",
+      "শত্রুতা (Enmity)",
+      "বৈষম্য (Discrimination)",
+      "শাসনব্যবস্থা (Governance)"
+    ],
+    "answer": "ভাইভাব ও একতা (Brotherhood and unity)"
+  },
+  {
+    "question": "ভারতের সংবিধানের প্রস্তাবনায় 'সার্বভৌম' শব্দের অর্থ কী? (What does the term 'Sovereign' mean in the Preamble?)",
+    "options": [
+      "স্বাধীন ও পূর্ণ ক্ষমতাসম্পন্ন (Independent and fully empowered)",
+      "অধীন দেশ (Dependent country)",
+      "রাজা কর্তৃক শাসিত (Ruled by a king)",
+      "বিদেশী শাসনাধীন (Under foreign rule)"
+    ],
+    "answer": "স্বাধীন ও পূর্ণ ক্ষমতাসম্পন্ন (Independent and fully empowered)"
+  },
+  {
+    "question": "ভারতের সংবিধানের প্রস্তাবনায় 'ধর্মনিরপেক্ষ' শব্দের অর্থ কী? (What does 'Secular' mean in the Preamble?)",
+    "options": [
+      "সরকার ধর্মের উপর ভিত্তি করে নয় (Government is not based on religion)",
+      "শুধুমাত্র একটি ধর্ম অনুসরণ করা হয় (Only one religion is followed)",
+      "ধর্মীয় আলাদা আলাদা আইন প্রয়োগ (Separate religious laws)",
+      "ধর্ম নির্ধারণের স্বাধীনতা নেই (No freedom of religion)"
+    ],
+    "answer": "সরকার ধর্মের উপর ভিত্তি করে নয় (Government is not based on religion)"
+  },
+  {
+    "question": "ভারতের সংবিধানের প্রস্তাবনায় 'গণতান্ত্রিক' শব্দের অর্থ কী? (What does 'Democratic' mean in the Preamble?)",
+    "options": [
+      "জনগণের শাসন (Rule by the people)",
+      "শাসক শ্রেণীর শাসন (Rule by rulers)",
+      "অধীনস্থ শাসন (Subordinate rule)",
+      "ধর্মীয় শাসন (Religious rule)"
+    ],
+    "answer": "জনগণের শাসন (Rule by the people)"
+  },
+  {
+    "question": "ভারতের সংবিধানের প্রস্তাবনায় 'আমরা, ভারতের জনগণ' কথাটি কিসের পরিচয় দেয়? (What does the phrase 'We, the people of India' signify in the Preamble?)",
+    "options": [
+      "জনগণের সার্বভৌসত্ব (Sovereignty of the people)",
+      "সরকারের কর্তৃত্ব (Authority of the government)",
+      "রাজার ক্ষমতা (King's power)",
+      "ব্রিটিশ শাসন (British rule)"
+    ],
+    "answer": "জনগণের সার্বভৌসত্ব (Sovereignty of the people)"
+  },
+  {
+    "question": "ভারতের সংবিধানের প্রস্তাবনার ভাষা পরিবর্তন করা যায়? (Can the language of the Preamble of the Indian Constitution be changed?)",
+    "options": [
+      "না (No)",
+      "হ্যাঁ (Yes)",
+      "শুধু সংবিধান সংশোধনের মাধ্যমে (Only by constitutional amendment)",
+      "কোনো সময় নয় (Never)"
+    ],
+    "answer": "শুধু সংবিধান সংশোধনের মাধ্যমে (Only by constitutional amendment)"
+  },
+  {
+    "question": "ভারতের সংবিধানের প্রস্তাবনায় 'ন্যায়বিচার' বলতে কী বোঝায়? (What does 'Justice' mean in the Preamble?)",
+    "options": [
+      "নৈতিক, সামাজিক ও অর্থনৈতিক ন্যায়বিচার (Moral, social and economic justice)",
+      "শুধু বিচারব্যবস্থা (Only judiciary)",
+      "সরকারের ক্ষমতা (Government's power)",
+      "শাস্তি দেওয়া (Punishment)"
+    ],
+    "answer": "নৈতিক, সামাজিক ও অর্থনৈতিক ন্যায়বিচার (Moral, social and economic justice)"
+  },
+  {
+    "question": "ভারতের সংবিধানের প্রস্তাবনায় 'ভ্রাতৃত্ব' শব্দটি কিসের প্রতীক? (The term 'Fraternity' in the Preamble symbolizes what?)",
+    "options": [
+      "রাষ্ট্রীয় ঐক্য এবং মর্যাদা (National unity and dignity)",
+      "কেবল বন্ধুত্ত্ব (Only friendship)",
+      "বৈষম্য (Discrimination)",
+      "রাজনৈতিক শাসন (Political rule)"
+    ],
+    "answer": "রাষ্ট্রীয় ঐক্য এবং মর্যাদা (National unity and dignity)"
+  },
+  {
+    "question": "ভারতের সংবিধানের প্রস্তাবনা কোন ধরনের সরকারের কথা ঘোষণা করে? (What type of government is declared in the Preamble?)",
+    "options": [
+      "গণতান্ত্রিক, সমাজতান্ত্রিক, ধর্মনিরপেক্ষ ও গণরাজ্য (Democratic, socialist, secular, republic)",
+      "রাজতান্ত্রিক (Monarchical)",
+      "ধর্মীয় সরকার (Theocratic government)",
+      "সাম্যবাদী সরকার (Communist government)"
+    ],
+    "answer": "গণতান্ত্রিক, সমাজতান্ত্রিক, ধর্মনিরপেক্ষ ও গণরাজ্য (Democratic, socialist, secular, republic)"
+  }
+]
