@@ -1,0 +1,202 @@
+[
+  {
+    "question": "কোষের মৌলিক একক কী? (What is the fundamental unit of life?)",
+    "options": [
+      "টিস্যু (Tissue)",
+      "অঙ্গ (Organ)",
+      "কোষ (Cell)",
+      "অণু (Molecule)"
+    ],
+    "answer": "কোষ (Cell)"
+  },
+  {
+    "question": "কোন বিজ্ঞানী সর্বপ্রথম কোষ আবিষ্কার করেন? (Who discovered the cell first?)",
+    "options": [
+      "রবার্ট হুক (Robert Hooke)",
+      "অ্যান্টনি ভ্যান লিউয়েনহুক (Antonie van Leeuwenhoek)",
+      "ডারউইন (Darwin)",
+      "মেন্ডেল (Mendel)"
+    ],
+    "answer": "রবার্ট হুক (Robert Hooke)"
+  },
+  {
+    "question": "রাইবোজোমের কাজ কী? (What is the function of ribosome?)",
+    "options": [
+      "শ্বসন (Respiration)",
+      "প্রোটিন সংশ্লেষণ (Protein synthesis)",
+      "পরিবহন (Transport)",
+      "শোষণ (Absorption)"
+    ],
+    "answer": "প্রোটিন সংশ্লেষণ (Protein synthesis)"
+  },
+  {
+    "question": "কোন অঙ্গাণু 'কোষের পাওয়ার হাউস' নামে পরিচিত? (Which organelle is known as the powerhouse of the cell?)",
+    "options": [
+      "রাইবোজোম (Ribosome)",
+      "লাইসোসোম (Lysosome)",
+      "মাইটোকন্ড্রিয়া (Mitochondria)",
+      "গলগি বডি (Golgi body)"
+    ],
+    "answer": "মাইটোকন্ড্রিয়া (Mitochondria)"
+  },
+  {
+    "question": "ল্যুভেনহুক কী পর্যবেক্ষণ করেছিলেন? (What did Leeuwenhoek observe?)",
+    "options": [
+      "মৃত কোষ (Dead cell)",
+      "ব্যাকটেরিয়া ও প্রোটোজোয়া (Bacteria and protozoa)",
+      "রক্ত কোষ (Blood cell)",
+      "ক্যাপসুল (Capsule)"
+    ],
+    "answer": "ব্যাকটেরিয়া ও প্রোটোজোয়া (Bacteria and protozoa)"
+  },
+  {
+    "question": "শুধুমাত্র উদ্ভিদ কোষে যে গঠন থাকে তা কী? (Which structure is found only in plant cells?)",
+    "options": [
+      "নিউক্লিয়াস (Nucleus)",
+      "সেল মেমব্রেন (Cell membrane)",
+      "সেল ওয়াল (Cell wall)",
+      "মাইটোকন্ড্রিয়া (Mitochondria)"
+    ],
+    "answer": "সেল ওয়াল (Cell wall)"
+  },
+  {
+    "question": "DNA কোষে কোথায় থাকে? (Where is DNA located in a cell?)",
+    "options": [
+      "সাইটোপ্লাজমে (In cytoplasm)",
+      "নিউক্লিয়াসে (In nucleus)",
+      "গলগি বডিতে (In Golgi body)",
+      "রাইবোজোমে (In ribosome)"
+    ],
+    "answer": "নিউক্লিয়াসে (In nucleus)"
+  },
+  {
+    "question": "প্রোক্যারিওটিক কোষের বৈশিষ্ট্য কী? (What is a feature of prokaryotic cell?)",
+    "options": [
+      "নিউক্লিয়াস আছে (Has nucleus)",
+      "মেমব্রেন বাউন্ড অঙ্গাণু (Has membrane-bound organelles)",
+      "DNA নিউক্লিওয়েড অঞ্চলে থাকে (DNA present in nucleoid region)",
+      "দুইটি নিউক্লিয়াস থাকে (Has two nuclei)"
+    ],
+    "answer": "DNA নিউক্লিওয়েড অঞ্চলে থাকে (DNA present in nucleoid region)"
+  },
+  {
+    "question": "গলগি বডির প্রধান কাজ কী? (What is the main function of Golgi body?)",
+    "options": [
+      "শ্বসন (Respiration)",
+      "প্রোটিন সংশ্লেষণ (Protein synthesis)",
+      "প্যাকেজিং ও পরিবহন (Packaging and transport)",
+      "DNA গঠন (DNA formation)"
+    ],
+    "answer": "প্যাকেজিং ও পরিবহন (Packaging and transport)"
+  },
+  {
+    "question": "কোন কোষে ক্লোরোপ্লাস্ট থাকে? (Which cells contain chloroplast?)",
+    "options": [
+      "প্রাণী কোষ (Animal cell)",
+      "ব্যাকটেরিয়া কোষ (Bacterial cell)",
+      "উদ্ভিদ কোষ (Plant cell)",
+      "ছত্রাক কোষ (Fungal cell)"
+    ],
+    "answer": "উদ্ভিদ কোষ (Plant cell)"
+  },
+  {
+    "question": "নিচের কোনটি প্রাণী কোষে থাকে না? (Which of the following is absent in animal cells?)",
+    "options": [
+      "গলগি বডি (Golgi body)",
+      "সেল ওয়াল (Cell wall)",
+      "নিউক্লিয়াস (Nucleus)",
+      "সেল মেমব্রেন (Cell membrane)"
+    ],
+    "answer": "সেল ওয়াল (Cell wall)"
+  },
+  {
+    "question": "লাইসোসোমকে কী নামে ডাকা হয়? (Lysosomes are also called?)",
+    "options": [
+      "প্রোটিন ফ্যাক্টরি (Protein factory)",
+      "শক্তি ঘর (Power house)",
+      "আত্মঘাতী থলি (Suicidal bag)",
+      "স্নায়বিক কেন্দ্র (Neural center)"
+    ],
+    "answer": "আত্মঘাতী থলি (Suicidal bag)"
+  },
+  {
+    "question": "সেল মেমব্রেন কী তৈরি হয়? (What is the cell membrane made of?)",
+    "options": [
+      "শুধু প্রোটিন (Only protein)",
+      "শুধু লিপিড (Only lipid)",
+      "প্রোটিন ও লিপিড (Protein and lipid)",
+      "শুধু শর্করা (Only carbohydrate)"
+    ],
+    "answer": "প্রোটিন ও লিপিড (Protein and lipid)"
+  },
+  {
+    "question": "নিচের কোনটি কোষ অঙ্গাণু নয়? (Which of the following is not a cell organelle?)",
+    "options": [
+      "মাইটোকন্ড্রিয়া (Mitochondria)",
+      "নিউক্লিয়াস (Nucleus)",
+      "রাইবোজোম (Ribosome)",
+      "DNA (DNA)"
+    ],
+    "answer": "DNA (DNA)"
+  },
+  {
+    "question": "কোন কোষে নিউক্লিয়াস অনুপস্থিত? (Which cell lacks a nucleus?)",
+    "options": [
+      "লিভার কোষ (Liver cell)",
+      "রক্তের লোহিত কণিকা (Red blood cell)",
+      "স্নায়ু কোষ (Nerve cell)",
+      "মাংসপেশী কোষ (Muscle cell)"
+    ],
+    "answer": "রক্তের লোহিত কণিকা (Red blood cell)"
+  },
+  {
+    "question": "RNA কোথায় পাওয়া যায়? (Where is RNA found?)",
+    "options": [
+      "শুধু নিউক্লিয়াসে (Only in nucleus)",
+      "শুধু সাইটোপ্লাজমে (Only in cytoplasm)",
+      "নিউক্লিয়াস ও সাইটোপ্লাজমে (In nucleus and cytoplasm)",
+      "কেবল মাইটোকন্ড্রিয়াতে (Only in mitochondria)"
+    ],
+    "answer": "নিউক্লিয়াস ও সাইটোপ্লাজমে (In nucleus and cytoplasm)"
+  },
+  {
+    "question": "কোন কোষ সবচেয়ে ছোট? (Which is the smallest cell?)",
+    "options": [
+      "ব্যাকটেরিয়া (Bacteria)",
+      "রক্ত কোষ (Blood cell)",
+      "স্নায়ু কোষ (Nerve cell)",
+      "ডিম্বাণু (Ovum)"
+    ],
+    "answer": "ব্যাকটেরিয়া (Bacteria)"
+  },
+  {
+    "question": "কোনটি একক-কোষী প্রাণী? (Which is a unicellular organism?)",
+    "options": [
+      "আমিবা (Amoeba)",
+      "ফার্ন (Fern)",
+      "কেঁচো (Earthworm)",
+      "মাছ (Fish)"
+    ],
+    "answer": "আমিবা (Amoeba)"
+  },
+  {
+    "question": "মেমব্রেনবিহীন কোষ অঙ্গাণু কোনটি? (Which organelle is membrane-less?)",
+    "options": [
+      "রাইবোজোম (Ribosome)",
+      "মাইটোকন্ড্রিয়া (Mitochondria)",
+      "গলগি বডি (Golgi body)",
+      "লাইসোসোম (Lysosome)"
+    ],
+    "answer": "রাইবোজোম (Ribosome)"
+  },
+  {
+    "question": "কোষতল তরলকে কী বলে? (What is the fluid part inside a cell called?)",
+    "options": [
+      "নিউক্লিওপ্লাজম (Nucleoplasm)",
+      "সাইটোপ্লাজম (Cytoplasm)",
+      "প্রোটোপ্লাজম (Protoplasm)",
+      "রাইবোজোম (Ribosome)"
+    ],
+    "answer": "সাইটোপ্লাজম (Cytoplasm)"
+  }
+]
