@@ -1,0 +1,202 @@
+[
+  {
+    "question": "ভারতে প্রথম ইউরোপীয় জাতি হিসেবে কে এসেছিল? (Which was the first European nation to come to India?)",
+    "options": [
+      "পর্তুগিজ (Portuguese)",
+      "ওলন্দাজ (Dutch)",
+      "ইংরেজ (British)",
+      "ফরাসি (French)"
+    ],
+    "answer": "পর্তুগিজ (Portuguese)"
+  },
+  {
+    "question": "ভারতে প্রথম ইউরোপীয় বাণিজ্য কেন্দ্র কোথায় স্থাপন করা হয়েছিল? (Where was the first European trading center established in India?)",
+    "options": [
+      "কলিকট (Calicut)",
+      "চেন্নাই (Chennai)",
+      "মুম্বই (Mumbai)",
+      "সুরাট (Surat)"
+    ],
+    "answer": "কলিকট (Calicut)"
+  },
+  {
+    "question": "ভারতে আসা প্রথম পর্তুগিজ অভিযাত্রী কে ছিলেন? (Who was the first Portuguese explorer to reach India?)",
+    "options": [
+      "ভাস্কো দা গামা (Vasco da Gama)",
+      "আলমেদা (Almeida)",
+      "আলবুকার্ক (Albuquerque)",
+      "ডি গামা (De Gama)"
+    ],
+    "answer": "ভাস্কো দা গামা (Vasco da Gama)"
+  },
+  {
+    "question": "ভাস্কো দা গামা ভারতে প্রথমবার এসেছিলেন কোন সালে? (In which year did Vasco da Gama first come to India?)",
+    "options": [
+      "1498",
+      "1500",
+      "1492",
+      "1505"
+    ],
+    "answer": "1498"
+  },
+  {
+    "question": "ভারতে ইউরোপীয়দের মধ্যে শেষ কারা আসে? (Which European power came last to India?)",
+    "options": [
+      "পর্তুগিজ (Portuguese)",
+      "ফরাসি (French)",
+      "ডাচ (Dutch)",
+      "ডেনিশ (Danish)"
+    ],
+    "answer": "ফরাসি (French)"
+  },
+  {
+    "question": "ফরাসিরা ভারতে প্রথম কোন শহরে উপনিবেশ স্থাপন করে? (Which was the first French settlement in India?)",
+    "options": [
+      "চন্দননগর (Chandannagar)",
+      "মহে (Mahe)",
+      "পঁদিচেরি (Pondicherry)",
+      "কারাইক্কাল (Karaikal)"
+    ],
+    "answer": "পঁদিচেরি (Pondicherry)"
+  },
+  {
+    "question": "ইংরেজরা প্রথম কোন স্থানে বাণিজ্য কেন্দ্র স্থাপন করে? (Where did the British first set up a trading post in India?)",
+    "options": [
+      "সুরাট (Surat)",
+      "মাদ্রাজ (Madras)",
+      "কলকাতা (Calcutta)",
+      "বম্বে (Bombay)"
+    ],
+    "answer": "সুরাট (Surat)"
+  },
+  {
+    "question": "ইস্ট ইন্ডিয়া কোম্পানি কোন সালের চার্টারে প্রতিষ্ঠিত হয়? (In which year was the East India Company established?)",
+    "options": [
+      "1600",
+      "1602",
+      "1612",
+      "1588"
+    ],
+    "answer": "1600"
+  },
+  {
+    "question": "ভারতে ডাচরা তাদের প্রধান ঘাঁটি কোথায় স্থাপন করেছিল? (Where did the Dutch establish their main base in India?)",
+    "options": [
+      "পুলিকাট (Pulicat)",
+      "চন্দননগর (Chandannagar)",
+      "কলিকট (Calicut)",
+      "গোয়া (Goa)"
+    ],
+    "answer": "পুলিকাট (Pulicat)"
+  },
+  {
+    "question": "পর্তুগিজরা ভারতে তাদের রাজধানী কোথায় স্থাপন করেছিল? (Where did the Portuguese establish their capital in India?)",
+    "options": [
+      "গোয়া (Goa)",
+      "দমন (Daman)",
+      "দিও (Diu)",
+      "মুম্বই (Mumbai)"
+    ],
+    "answer": "গোয়া (Goa)"
+  },
+  {
+    "question": "ডাচ ইস্ট ইন্ডিয়া কোম্পানি কোন সালে গঠিত হয়েছিল? (In which year was the Dutch East India Company established?)",
+    "options": [
+      "1602",
+      "1600",
+      "1612",
+      "1620"
+    ],
+    "answer": "1602"
+  },
+  {
+    "question": "ইংরেজরা কোন সম্রাটের কাছ থেকে প্রথম ফারমান পায়? (From which Mughal emperor did the British first get a farman?)",
+    "options": [
+      "জাহাঙ্গীর (Jahangir)",
+      "আকবর (Akbar)",
+      "শাহজাহান (Shah Jahan)",
+      "আউরঙ্গজেব (Aurangzeb)"
+    ],
+    "answer": "জাহাঙ্গীর (Jahangir)"
+  },
+  {
+    "question": "ফরাসি ইস্ট ইন্ডিয়া কোম্পানি গঠিত হয় কোন সালে? (In which year was the French East India Company founded?)",
+    "options": [
+      "1664",
+      "1666",
+      "1662",
+      "1650"
+    ],
+    "answer": "1664"
+  },
+  {
+    "question": "ভারতে ডেনিশরা কোথায় উপনিবেশ স্থাপন করেছিল? (Where did the Danish establish a settlement in India?)",
+    "options": [
+      "ট্রাঙ্কেবার (Tranquebar)",
+      "পঁদিচেরি (Pondicherry)",
+      "চন্দননগর (Chandannagar)",
+      "পুলিকাট (Pulicat)"
+    ],
+    "answer": "ট্রাঙ্কেবার (Tranquebar)"
+  },
+  {
+    "question": "ইংরেজ ও ফরাসিদের মধ্যে মুখ্য প্রতিদ্বন্দ্বিতা কোথায় হয়েছিল? (Where did the main rivalry between the British and French occur?)",
+    "options": [
+      "কার্নাটক (Carnatic)",
+      "বিহার (Bihar)",
+      "বাংলা (Bengal)",
+      "ওড়িশা (Odisha)"
+    ],
+    "answer": "কার্নাটক (Carnatic)"
+  },
+  {
+    "question": "প্রথম কার্নাটক যুদ্ধের সময় ফরাসি নেতা ছিলেন কে? (Who was the French leader during the First Carnatic War?)",
+    "options": [
+      "ডুপ্লে (Dupleix)",
+      "বোর্দে (Bourdonnais)",
+      "লাল্লে (Lally)",
+      "ডি স্যাঁ দোমাঁ (De Saint-Domingue)"
+    ],
+    "answer": "বোর্দে (Bourdonnais)"
+  },
+  {
+    "question": "ইংরেজ ও ডাচদের মধ্যে বিখ্যাত যুদ্ধ কোনটি ছিল? (Which was the famous battle between the English and Dutch?)",
+    "options": [
+      "বেলি যুদ্ধ (Battle of Belli)",
+      "মসুলি যুদ্ধ (Battle of Masulipatnam)",
+      "হুগলি যুদ্ধ (Battle of Hooghly)",
+      "সাঁহি যুদ্ধ (Battle of Swally)"
+    ],
+    "answer": "সাঁহি যুদ্ধ (Battle of Swally)"
+  },
+  {
+    "question": "পর্তুগিজরা ভারতে প্রথম কোন গভর্নর নিযুক্ত করে? (Who was the first Portuguese governor in India?)",
+    "options": [
+      "আলমেদা (Almeida)",
+      "আলবুকার্ক (Albuquerque)",
+      "ডি সুজা (De Souza)",
+      "ডি ব্রাগাঞ্জা (De Braganza)"
+    ],
+    "answer": "আলমেদা (Almeida)"
+  },
+  {
+    "question": "‘Blue Water Policy’ কার নীতির অংশ ছিল? (The 'Blue Water Policy' was part of whose strategy?)",
+    "options": [
+      "আলমেদা (Almeida)",
+      "আলবুকার্ক (Albuquerque)",
+      "ভাস্কো দা গামা (Vasco da Gama)",
+      "বোর্দে (Bourdonnais)"
+    ],
+    "answer": "আলমেদা (Almeida)"
+  },
+  {
+    "question": "পর্তুগিজদের প্রধান প্রতিদ্বন্দ্বী কারা ছিল ভারতে? (Who were the main rivals of the Portuguese in India?)",
+    "options": [
+      "ডাচ (Dutch)",
+      "ডেনিশ (Danish)",
+      "ফরাসি (French)",
+      "ইংরেজ (British)"
+    ],
+    "answer": "ডাচ (Dutch)"
+  }
+]
