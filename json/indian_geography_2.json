@@ -1,0 +1,202 @@
+[
+  {
+    "question": "ভারতের সবচেয়ে বিস্তৃত মৃত্তিকা ধরনের নাম কী? (What is the name of the most widespread soil type in India?)",
+    "options": [
+      "লাল মাটি (Red soil)",
+      "কালো মাটি (Black soil)",
+      "অলুভিয়াল মাটি (Alluvial soil)",
+      "বাদামী অরণ্য মাটি (Forest brown soil)"
+    ],
+    "answer": "অলুভিয়াল মাটি (Alluvial soil)"
+  },
+  {
+    "question": "কালো মাটি প্রধানত কোন ফসলের জন্য উপযোগী? (Black soil is most suitable for which crop?)",
+    "options": [
+      "চাল (Rice)",
+      "গম (Wheat)",
+      "কাপাস (Cotton)",
+      "জোয়ার (Jowar)"
+    ],
+    "answer": "কাপাস (Cotton)"
+  },
+  {
+    "question": "লাল মাটি প্রধানত কোন অঞ্চলে পাওয়া যায়? (Red soil is mainly found in which region?)",
+    "options": [
+      "গাঙ্গেয় সমভূমি (Gangetic plains)",
+      "দাক্ষিণাত্য মালভূমি (Deccan plateau)",
+      "হিমালয় অঞ্চল (Himalayan region)",
+      "পশ্চিম ঘাট (Western Ghats)"
+    ],
+    "answer": "দাক্ষিণাত্য মালভূমি (Deccan plateau)"
+  },
+  {
+    "question": "পান্না ও হীরা কোন মাটিতে বেশি পাওয়া যায়? (Panna and diamond are mostly found in which soil?)",
+    "options": [
+      "পেডল মাটি (Pedal soil)",
+      "ল্যাটেরাইট মাটি (Laterite soil)",
+      "কালো মাটি (Black soil)",
+      "পাহাড়ি মাটি (Mountain soil)"
+    ],
+    "answer": "ল্যাটেরাইট মাটি (Laterite soil)"
+  },
+  {
+    "question": "অলুভিয়াল মাটি গঠিত হয়েছে কীভাবে? (How has alluvial soil been formed?)",
+    "options": [
+      "ভলকানিক অগ্ন্যুৎপাত দ্বারা (By volcanic eruption)",
+      "নদীজ দ্বারা জমাকৃত পলি দ্বারা (By deposition of river-borne silt)",
+      "বায়ুর দ্বারা (By wind deposition)",
+      "সমুদ্রের ঢেউ দ্বারা (By sea waves)"
+    ],
+    "answer": "নদীজ দ্বারা জমাকৃত পলি দ্বারা (By deposition of river-borne silt)"
+  },
+  {
+    "question": "ভারতের কোন অঞ্চলে মরুভূমির বালুমাটি বেশি পাওয়া যায়? (In which region of India is desert sand soil predominantly found?)",
+    "options": [
+      "তামিলনাড়ু (Tamil Nadu)",
+      "রাজস্থান (Rajasthan)",
+      "পশ্চিমবঙ্গ (West Bengal)",
+      "বিহার (Bihar)"
+    ],
+    "answer": "রাজস্থান (Rajasthan)"
+  },
+  {
+    "question": "ল্যাটেরাইট মাটি কোন ধরনের আবহাওয়ায় গঠিত হয়? (Laterite soil is formed in which type of climate?)",
+    "options": [
+      "শুষ্ক ও গরম (Dry and hot)",
+      "আর্দ্র ও উষ্ণ (Humid and warm)",
+      "ঠান্ডা ও শুষ্ক (Cold and dry)",
+      "হিমালয়ীয় (Himalayan)"
+    ],
+    "answer": "আর্দ্র ও উষ্ণ (Humid and warm)"
+  },
+  {
+    "question": "লাল মাটির রঙ লাল কেন? (Why is red soil red in color?)",
+    "options": [
+      "ক্লোরোফিলের জন্য (Due to chlorophyll)",
+      "লোহা অক্সাইডের জন্য (Due to iron oxide)",
+      "ম্যাঙ্গানিজের জন্য (Due to manganese)",
+      "কপার অক্সাইডের জন্য (Due to copper oxide)"
+    ],
+    "answer": "লোহা অক্সাইডের জন্য (Due to iron oxide)"
+  },
+  {
+    "question": "মাটি সংরক্ষণের জন্য কোন উপায়টি কার্যকর নয়? (Which of the following is NOT an effective method of soil conservation?)",
+    "options": [
+      "কন্টুর চাষ (Contour ploughing)",
+      "আবর্তচাষ (Crop rotation)",
+      "বন কাটন (Deforestation)",
+      "টেরেসিং (Terracing)"
+    ],
+    "answer": "বন কাটন (Deforestation)"
+  },
+  {
+    "question": "ভারতে কোথায় পাহাড়ি মাটি প্রধানত দেখা যায়? (Where is mountain soil mainly found in India?)",
+    "options": [
+      "দাক্ষিণাত্য মালভূমি (Deccan Plateau)",
+      "হিমালয় অঞ্চল (Himalayan Region)",
+      "গাঙ্গেয় সমভূমি (Gangetic Plain)",
+      "গুজরাট উপকূল (Gujarat Coast)"
+    ],
+    "answer": "হিমালয় অঞ্চল (Himalayan Region)"
+  },
+  {
+    "question": "ল্যাটেরাইট মাটির উর্বরতা কেমন? (What is the fertility level of laterite soil?)",
+    "options": [
+      "খুব বেশি (Very high)",
+      "মাঝারি (Moderate)",
+      "কম (Low)",
+      "উচ্চ (High)"
+    ],
+    "answer": "কম (Low)"
+  },
+  {
+    "question": "ভারতে কোন মাটিকে 'Regur Soil' বলা হয়? (Which soil is known as 'Regur Soil' in India?)",
+    "options": [
+      "লাল মাটি (Red soil)",
+      "কালো মাটি (Black soil)",
+      "অলুভিয়াল মাটি (Alluvial soil)",
+      "ল্যাটেরাইট মাটি (Laterite soil)"
+    ],
+    "answer": "কালো মাটি (Black soil)"
+  },
+  {
+    "question": "ভারতের সবচেয়ে বেশি উর্বর মাটি কোনটি? (Which is the most fertile soil in India?)",
+    "options": [
+      "ল্যাটেরাইট মাটি (Laterite soil)",
+      "অলুভিয়াল মাটি (Alluvial soil)",
+      "কালো মাটি (Black soil)",
+      "লাল মাটি (Red soil)"
+    ],
+    "answer": "অলুভিয়াল মাটি (Alluvial soil)"
+  },
+  {
+    "question": "পাহাড়ি অঞ্চলে মাটির ক্ষয় প্রতিরোধে কোন ব্যবস্থা গ্রহণ করা হয়? (What measure is taken to prevent soil erosion in hilly areas?)",
+    "options": [
+      "টেরেসিং (Terracing)",
+      "বন কাটন (Deforestation)",
+      "গভীর চাষ (Deep ploughing)",
+      "জলসেচ বৃদ্ধি (Increased irrigation)"
+    ],
+    "answer": "টেরেসিং (Terracing)"
+  },
+  {
+    "question": "ভারতে ল্যাটেরাইট মাটি প্রধানত কোথায় দেখা যায়? (Where is laterite soil mainly found in India?)",
+    "options": [
+      "গাঙ্গেয় সমভূমি (Gangetic Plains)",
+      "রাজস্থান মরুভূমি (Rajasthan Desert)",
+      "ওড়িশা ও কেরালা (Odisha and Kerala)",
+      "পাঞ্জাব ও হরিয়ানা (Punjab and Haryana)"
+    ],
+    "answer": "ওড়িশা ও কেরালা (Odisha and Kerala)"
+  },
+  {
+    "question": "কালো মাটির আরেক নাম কী? (What is another name of black soil?)",
+    "options": [
+      "ল্যাটেরাইট (Laterite)",
+      "রেগুর (Regur)",
+      "অলুভিয়াল (Alluvial)",
+      "সেলাইন (Saline)"
+    ],
+    "answer": "রেগুর (Regur)"
+  },
+  {
+    "question": "ভারতের মৃত্তিকা গবেষণা কেন্দ্র কোথায় অবস্থিত? (Where is the Indian Soil Research Institute located?)",
+    "options": [
+      "দিল্লি (Delhi)",
+      "নাগপুর (Nagpur)",
+      "ভোপাল (Bhopal)",
+      "হায়দরাবাদ (Hyderabad)"
+    ],
+    "answer": "দিল্লি (Delhi)"
+  },
+  {
+    "question": "ভারতের কোন অঞ্চলে লবণাক্ত মাটি বেশি দেখা যায়? (In which region of India is saline soil commonly found?)",
+    "options": [
+      "সুন্দরবন (Sundarbans)",
+      "গুজরাট উপকূল (Gujarat coast)",
+      "নিলগিরি পাহাড় (Nilgiri hills)",
+      "হিমাচল প্রদেশ (Himachal Pradesh)"
+    ],
+    "answer": "গুজরাট উপকূল (Gujarat coast)"
+  },
+  {
+    "question": "কোন মাটি ভিজে অবস্থায় আঠালো হয়? (Which soil becomes sticky when wet?)",
+    "options": [
+      "লাল মাটি (Red soil)",
+      "অলুভিয়াল মাটি (Alluvial soil)",
+      "কালো মাটি (Black soil)",
+      "ল্যাটেরাইট মাটি (Laterite soil)"
+    ],
+    "answer": "কালো মাটি (Black soil)"
+  },
+  {
+    "question": "মাটির পিএইচ (pH) মান কিসের পরিমাপক? (What does soil pH measure?)",
+    "options": [
+      "উর্বরতা (Fertility)",
+      "অম্লত্ব ও ক্ষারত্ব (Acidity and alkalinity)",
+      "জৈব পদার্থের পরিমাণ (Amount of organic matter)",
+      "জলের ধারণক্ষমতা (Water holding capacity)"
+    ],
+    "answer": "অম্লত্ব ও ক্ষারত্ব (Acidity and alkalinity)"
+  }
+]
