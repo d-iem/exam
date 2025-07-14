@@ -1,4 +1,4 @@
-let question_file = "json/indian_geography_2.json"
+let question_file = "json/static_gk1.json"
 
 let quizData = [];
 
