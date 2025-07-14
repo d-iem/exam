@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Olympics 2024 কবে অনুষ্ঠিত হয়েছিল? (When were the Olympics 2024 held?)",
+    "options": [
+      "24 জুলাই – 9 আগস্ট, 2024 (July 24 – August 9, 2024)",
+      "26 জুলাই – 11 আগস্ট, 2024 (July 26 – August 11, 2024)",
+      "28 জুলাই – 13 আগস্ট, 2024 (July 28 – August 13, 2024)",
+      "25 জুলাই – 10 আগস্ট, 2024 (July 25 – August 10, 2024)"
+    ],
+    "answer": "26 জুলাই – 11 আগস্ট, 2024 (July 26 – August 11, 2024)"
+  },
+  {
+    "question": "Olympics 2024 কোন শহরে অনুষ্ঠিত হয়েছিল? (Which city hosted the Olympics 2024?)",
+    "options": [
+      "টোকিও (Tokyo)",
+      "প্যারিস (Paris)",
+      "লন্ডন (London)",
+      "নিউ ইয়র্ক (New York)"
+    ],
+    "answer": "প্যারিস (Paris)"
+  },
+  {
+    "question": "Olympics 2024 এর অফিসিয়াল মটো কী ছিল? (What was the official motto of Olympics 2024?)",
+    "options": [
+      "Faster, Higher, Stronger",
+      "Made for Sharing",
+      "Games Wide Open",
+      "Unity in Diversity"
+    ],
+    "answer": "Games Wide Open"
+  },
+  {
+    "question": "Olympics 2024-এ মোট কতটি খেলা অন্তর্ভুক্ত ছিল? (How many sports were included in Olympics 2024?)",
+    "options": [
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "answer": "32"
+  },
+  {
+    "question": "Olympics 2024-এ কোন নতুন খেলা প্রথমবারের মত অন্তর্ভুক্ত হয়েছিল? (Which new sport debuted at Olympics 2024?)",
+    "options": [
+      "Skimboarding",
+      "3x3 Basketball",
+      "Surfing",
+      "Breaking (Breakdance)"
+    ],
+    "answer": "Breaking (Breakdance)"
+  },
+  {
+    "question": "Breaking ইভেন্ট কোথায় অনুষ্ঠিত হয়েছিল? (Where was the breaking event held?)",
+    "options": [
+      "Stade de France",
+      "Gard du Nord",
+      "Place de la Concorde",
+      "Eiffel Tower Plaza"
+    ],
+    "answer": "Place de la Concorde"
+  },
+  {
+    "question": "Olympics 2024-এর মাসকটের নাম কী ছিল? (What was the name of the mascot of Olympics 2024?)",
+    "options": [
+      "Fleur the Fox",
+      "Phryges (Phrygian Caps)",
+      "Lumière",
+      "Liberty Bird"
+    ],
+    "answer": "Phryges (Phrygian Caps)"
+  },
+  {
+    "question": "Olympics 2024-এ মোট কতজন অ্যাথলিট অংশগ্রহণ করেছিল? (How many athletes participated in Olympics 2024?)",
+    "options": [
+      "9,500",
+      "10,700",
+      "12,000",
+      "8,000"
+    ],
+    "answer": "10,700"
+  },
+  {
+    "question": "Olympics 2024-এর ওপেনিং সেরেমনি কোথায় হয়েছিল? (Where was the opening ceremony of Olympics 2024 held?)",
+    "options": [
+      "Thames River",
+      "Seine River",
+      "Danube River",
+      "Rhône River"
+    ],
+    "answer": "Seine River"
+  },
+  {
+    "question": "Surfing ইভেন্ট কোথায় অনুষ্ঠিত হয়েছিল? (Where was the surfing event held?)",
+    "options": [
+      "Marseille",
+      "Tahiti",
+      "Nice",
+      "Paris"
+    ],
+    "answer": "Tahiti"
+  },
+  {
+    "question": "Athletics এবং Closing Ceremony কোন স্টেডিয়ামে অনুষ্ঠিত হয়েছিল? (Where were the athletics and closing ceremony held?)",
+    "options": [
+      "Stade Roland Garros",
+      "Stade de France",
+      "Parc des Princes",
+      "South Paris Arena"
+    ],
+    "answer": "Stade de France"
+  },
+  {
+    "question": "Olympics 2024-এ কোন দেশ সর্বাধিক মেডেল জিতেছে? (Which country topped the medal tally at Olympics 2024?)",
+    "options": [
+      "China",
+      "USA",
+      "Great Britain",
+      "France"
+    ],
+    "answer": "USA"
+  },
+  {
+    "question": "Olympics 2024-এ কোন দেশ USA-এর সঙ্গে সমান সোনা জিতেছে? (Which country tied with USA in gold medals?)",
+    "options": [
+      "Russia",
+      "Great Britain",
+      "China",
+      "Germany"
+    ],
+    "answer": "China"
+  },
+  {
+    "question": "Olympics 2024-এ China মোট কতটি মেডেল জিতেছে? (How many total medals did China win?)",
+    "options": [
+      "90",
+      "91",
+      "100",
+      "85"
+    ],
+    "answer": "91"
+  },
+  {
+    "question": "India-র পক্ষ থেকে Opening Ceremony-তে Flag Bearer কে ছিলেন? (Who was the Indian flag bearer at the opening ceremony?)",
+    "options": [
+      "Neeraj Chopra",
+      "P. V. Sindhu",
+      "Bajrang Punia",
+      "Manu Bhaker"
+    ],
+    "answer": "P. V. Sindhu"
+  },
+  {
+    "question": "India Olympics 2024-এ মোট কতটি মেডেল জিতেছে? (How many total medals did India win?)",
+    "options": [
+      "4",
+      "6",
+      "7",
+      "5"
+    ],
+    "answer": "6"
+  },
+  {
+    "question": "India-র একমাত্র রৌপ্য পদক কে জিতেছে? (Who won India's only silver medal?)",
+    "options": [
+      "Ravi Kumar Dahiya",
+      "Neeraj Chopra",
+      "Bajrang Punia",
+      "Manu Bhaker"
+    ],
+    "answer": "Neeraj Chopra"
+  },
+  {
+    "question": "Manu Bhaker Olympics 2024-এ India-র পক্ষে কতটি ব্রোঞ্জ জিতেছেন? (How many bronze medals did Manu Bhaker win?)",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "0"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Olympics 2024-এ প্রথমবার কোন খেলা দেশের বাইরে অনুষ্ঠিত হয়েছিল? (Which sport was held outside mainland France?)",
+    "options": [
+      "Handball",
+      "Surfing",
+      "Rugby",
+      "Judo"
+    ],
+    "answer": "Surfing"
+  },
+  {
+    "question": "Olympics 2024-এ মোট কতটি দেশ অন্তত একটি মেডেল পেয়েছে? (How many nations won at least one medal?)",
+    "options": [
+      "80",
+      "92",
+      "100",
+      "110"
+    ],
+    "answer": "92"
+  }
+]
